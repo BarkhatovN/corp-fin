@@ -8,3 +8,5 @@ Operating Margin = Operating Income / Sales
 EBIT Margins = EBIT / Sales
 
 Net Profit Margin = Net Income / Sales
+
+Account Receivable Days = Accounts Receivable / Average Daily Sales

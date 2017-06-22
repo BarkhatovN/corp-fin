@@ -22,7 +22,7 @@ Operating margin is a measurement of what proportion of a company's revenue is l
 
 ### EBITDA Margins
 
-`EBITDA margin is a measurement of a company's operating profitability as a percentage of its total revenue. It is equal to earnings before interest, tax, depreciation and amortization (EBITDA) divided by total revenue. Because EBITDA excludes interest, depreciation, amortization and taxes, __EBITDA margin can provide an investor, business owner or financial professional with a clear view of a company's operating profitability and cash flow__.`
+`EBITDA margin is a measurement of a company's operating profitability as a percentage of its total revenue. It is equal to earnings before interest, tax, depreciation and amortization (EBITDA) divided by total revenue. Because EBITDA excludes interest, depreciation, amortization and taxes, EBITDA margin can provide an investor, business owner or financial professional with a clear view of a company's operating profitability and cash flow.`
 
 **EBITDA Margins = EBIT / Sales**
 

@@ -13,9 +13,8 @@ There are notes that I made from "Corporate Finance / Jonathan B Berk; Peter M D
 
 ### Operating Margin
 
-`Operating margin is a margin ratio used to measure a company's pricing strategy and operating efficiency.
-
-Operating margin is a measurement of what proportion of a company's revenue is left over after paying for variable costs of production such as wages, raw materials, etc. It can be calculated by dividing a company’s operating income (also known as "operating profit") during a given period by its net sales during the same period. “Operating income” here refers to the profit that a company retains after removing operating expenses (such as cost of goods sold and wages) and depreciation. “Net sales” here refers to the total value of sales minus the value of returned goods, allowances for damaged and missing goods, and discount sales.`
+`Operating margin is a margin ratio used to measure a company's pricing strategy and operating efficiency.`
+`Operating margin is a measurement of what proportion of a company's revenue is left over after paying for variable costs of production such as wages, raw materials, etc. It can be calculated by dividing a company’s operating income (also known as "operating profit") during a given period by its net sales during the same period. “Operating income” here refers to the profit that a company retains after removing operating expenses (such as cost of goods sold and wages) and depreciation. “Net sales” here refers to the total value of sales minus the value of returned goods, allowances for damaged and missing goods, and discount sales.`
 
 **Operating Margin = (Operating Income) / Sales**
 

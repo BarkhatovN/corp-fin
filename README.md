@@ -8,7 +8,7 @@ There are notes that I made from "Corporate Finance / Jonathan B Berk; Peter M D
 ### Gross Margin
 `The gross margin represents the percent of total sales revenue that the company retains after incurring the direct costs associated with producing the goods and services it sells. The higher the percentage, the more the company retains on each dollar of sales, to service its other costs and debt obligations.`
 
-**(Revenue - Cost of Goods Sold) / Sales**
+**Gross Margin = (Revenue - Cost of Goods Sold) / Sales**
 
 
 ### Operating Margin

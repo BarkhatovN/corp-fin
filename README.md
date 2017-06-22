@@ -13,12 +13,18 @@ There are notes that I made from "Corporate Finance / Jonathan B Berk; Peter M D
 
 ### Operating Margin
 
+`Operating margin is a margin ratio used to measure a company's pricing strategy and operating efficiency.
+
+Operating margin is a measurement of what proportion of a company's revenue is left over after paying for variable costs of production such as wages, raw materials, etc. It can be calculated by dividing a company’s operating income (also known as "operating profit") during a given period by its net sales during the same period. “Operating income” here refers to the profit that a company retains after removing operating expenses (such as cost of goods sold and wages) and depreciation. “Net sales” here refers to the total value of sales minus the value of returned goods, allowances for damaged and missing goods, and discount sales.`
+
 **Operating Margin = (Operating Income) / Sales**
 
 
-### EBIT Margins
+### EBITDA Margins
 
-**EBIT Margins = EBIT / Sales**
+`EBITDA margin is a measurement of a company's operating profitability as a percentage of its total revenue. It is equal to earnings before interest, tax, depreciation and amortization (EBITDA) divided by total revenue. Because EBITDA excludes interest, depreciation, amortization and taxes, __EBITDA margin can provide an investor, business owner or financial professional with a clear view of a company's operating profitability and cash flow__.`
+
+**EBITDA Margins = EBIT / Sales**
 
 
 ### Net Profit Margin

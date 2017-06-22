@@ -10,7 +10,6 @@ There are notes that I made from "Corporate Finance / Jonathan B Berk; Peter M D
 
 **Gross Margin = (Revenue - Cost of Goods Sold) / Sales**
 
-
 ### Operating Margin
 
 `Operating margin is a margin ratio used to measure a company's pricing strategy and operating efficiency.`
@@ -18,14 +17,13 @@ There are notes that I made from "Corporate Finance / Jonathan B Berk; Peter M D
 
 **Operating Margin = (Operating Income) / Sales**
 
-
 ### EBITDA Margins
 
 `EBITDA margin is a measurement of a company's operating profitability as a percentage of its total revenue. It is equal to earnings before interest, tax, depreciation and amortization (EBITDA) divided by total revenue. Because EBITDA excludes interest, depreciation, amortization and taxes, EBITDA margin can provide an investor, business owner or financial professional with a clear view of a company's operating profitability and cash flow.`
 
 **EBITDA Margins = EBIT / Sales**
 
-
 ### Net Profit Margin
+`Net profit margin is the ratio of net profits to revenues for a company or business segment . Typically expressed as a percentage, net profit margins show how much of each dollar collected by a company as revenue translates into profit. The equation to calculate net profit margin is: net margin = net profit / revenue.`
 
 **Net Profit Margin = Net Income / Sales**

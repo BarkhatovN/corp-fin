@@ -1,5 +1,5 @@
 # corp-fin
-It's nots that I made from "Corporate Finance / Jonathan B Berk; Peter M DeMarzo"
+There are notes that I made from "Corporate Finance / Jonathan B Berk; Peter M DeMarzo"
 
 ## Profitability ratios
 

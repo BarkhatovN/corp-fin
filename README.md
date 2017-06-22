@@ -12,12 +12,15 @@ It's nots that I made from "Corporate Finance / Jonathan B Berk; Peter M DeMarzo
 
 
 ### Operating Margin
-Operating Income / Sales
+
+**Operating Income / Sales**
 
 
 ### EBIT Margins
-EBIT / Sales
+
+**EBIT / Sales**
 
 
 ### Net Profit Margin
-Net Income / Sales
+
+**Net Income / Sales**

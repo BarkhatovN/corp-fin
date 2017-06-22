@@ -13,14 +13,14 @@ There are notes that I made from "Corporate Finance / Jonathan B Berk; Peter M D
 
 ### Operating Margin
 
-**Operating Income / Sales**
+**Operating Margin = (Operating Income) / Sales**
 
 
 ### EBIT Margins
 
-**EBIT / Sales**
+**EBIT Margins = EBIT / Sales**
 
 
 ### Net Profit Margin
 
-**Net Income / Sales**
+**Net Profit Margin = Net Income / Sales**
